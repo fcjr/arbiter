@@ -1,3 +1,3 @@
-module github.com/fcjr/proxy
+module github.com/fcjr/arbiter
 
-go 1.12
+go 1.14

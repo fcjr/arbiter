@@ -1,2 +1,3 @@
-# proxy
-[![Build Status](https://travis-ci.org/fcjr/proxy.svg?branch=master)](https://travis-ci.org/fcjr/proxy)
+# arbiter
+
+Yet another MITM-Capable Proxy Libray written in Go.  Extensible interface built with modification in mind.
