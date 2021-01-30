@@ -1,3 +1,5 @@
 # arbiter
 
-Yet another MITM-Capable Proxy Library written in Go.  Extensible interface built with modification in mind.
+A library for creating simple cross-platform firewalls.
+
+Uses a pf (macOS), WFP (windows), & iptables (linux) under the hood.
